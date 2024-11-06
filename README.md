@@ -9,3 +9,5 @@
 ### Лаб Кельман (Дослідження фільтра Калмана) https://github.com/Q1va/Kelman- (Готов к проверке)
 
 ### Лаб GPS https://github.com/Q1va/GPS (Готов к проверке)
+
+### Лаб Loran https://github.com/Q1va/Loran (Готов к проверке)
